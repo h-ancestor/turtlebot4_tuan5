@@ -55,4 +55,3 @@ Topic chính: `/scan`, `/odom`, `/cmd_vel`, `/map`, `/amcl_pose`, `/oakd/rgb/pre
 
 Trong lượt chạy đã ghi nhận, node điều hướng lần lượt nhận `SUCCEEDED` ở cả ba goal; AMCL tại Goal 3 khoảng (-4.74, 6.05), cách tọa độ mục tiêu khoảng 0.27 m. YOLOv8n đã phát hiện class `person` trên ảnh mô phỏng; ảnh annotate nằm trong `docs/tuan05_yolo_detection.png`. Map chỉ bao phủ tuyến khảo sát aisle trung tâm; Nav2 có thể mất vài phút để khởi tạo trên máy yếu.
 
-Video demo sẽ được chia sẻ bằng Google Drive theo yêu cầu môn học, không đặt trong repository này. Thêm link Drive tại đây: **[Video demo – cập nhật link]**.
